@@ -6,7 +6,7 @@
 
 [演示](https://zichenstudio.netlify.app/digital-rain/index.html)
 
-不会写README文件，只能这样了。
+不会写README文件，只能这样了,有空会补充此文件的。
 
 # license
 BSD 3-Clause License
