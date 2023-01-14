@@ -11,7 +11,7 @@
 开始运行时的输入框输入的是字体的大小,最好不超过48,不低于12.
 
 # license
-MIT License
+[MIT License](./LICENSE)
 
 ```
 MIT License
