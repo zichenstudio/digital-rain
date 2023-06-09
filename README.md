@@ -4,7 +4,7 @@
 
 使用[MIT LICENSE](#license)协议
 
-[演示](https://zichenstudio.netlify.app/src/digital-rain/index.html)
+[演示](https://zichenstudio.github.io/digital-rain/src/)
 
 [src](./src/)目录中是源代码
 
